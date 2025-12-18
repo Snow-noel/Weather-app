@@ -15,6 +15,7 @@ output: {
   devtool: "eval-source-map",
   devServer: {
     watchFiles: ["./src/index.html"],
+      static: "./dist",
   },
   plugins: [
     new HtmlWebpackPlugin({
