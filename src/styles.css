@@ -31,7 +31,7 @@ input{
     width: 7rem;
     padding: 0.4rem;
     border-radius: 6px;
-    background-color: #008000;
+    background-color: #93d824;
     color: white;
     margin-left: 2.5rem;
 }
@@ -52,5 +52,5 @@ header{
     border-radius: 10px;
     height: 400px;
     width: 300px;
-    background:linear-gradient(180deg,#ADD8E6,#FFFF00);
+    background:linear-gradient(180deg,#4aaaca,#bdbd08);
 }
